@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name ODFN)(type KiCad)(uri ..\kicad-components\Pretty_Footprints\ODFN.pretty)(options "")(descr ""))
+  (lib (name Connectors_254mm)(type KiCad)(uri ..\kicad-components\Pretty_Footprints\Connectors_254mm.pretty)(options "")(descr ""))
+  (lib (name General_SMD)(type KiCad)(uri ..\kicad-components\Pretty_Footprints\General_SMD.pretty)(options "")(descr ""))
+  (lib (name Mounting_Holes)(type KiCad)(uri ..\kicad-components\Pretty_Footprints\Mounting_Holes.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,6 @@
+#Kicad ignore
+#ignore netlist
+*.bak
+*-cache.lib
+*.kicad_pcb-bak
+*.net

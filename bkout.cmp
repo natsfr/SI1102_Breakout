@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-mar-04 BZR unknown)-product   date = 03/08/2015 14:31:14
+
+BeginCmp
+TimeStamp = /55BF4BEC;
+Reference = C101;
+ValeurCmp = CAP_0805;
+IdModule  = General_SMD:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF4B7B;
+Reference = C102;
+ValeurCmp = CAP_0805;
+IdModule  = General_SMD:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF4C12;
+Reference = C103;
+ValeurCmp = CAP_0805;
+IdModule  = General_SMD:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF613B;
+Reference = D101;
+ValeurCmp = Led_Small;
+IdModule  = General_SMD:SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF573E;
+Reference = P101;
+ValeurCmp = CONN_02X04;
+IdModule  = Connectors_254mm:pin_array_4x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF4C2F;
+Reference = R101;
+ValeurCmp = RES_0603;
+IdModule  = General_SMD:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF4D14;
+Reference = R102;
+ValeurCmp = RES_0603;
+IdModule  = General_SMD:SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55BF4B32;
+Reference = U101;
+ValeurCmp = SI1102;
+IdModule  = ODFN:ODFN-8_3x3;
+EndCmp
+
+EndListe
